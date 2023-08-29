@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+
+ 
+  font-family: Inconsolata;
+}
+body{
+  background-image: url("https://media.istockphoto.com/id/524716446/vector/seamless-abstract-geometric-hipster-pattern-90s.jpg?s=612x612&w=0&k=20&c=h4-mouqJxRC097gXFl1Hf18BNW7VDnmybj5TGLIsmiY=");
+  /* background-size: cover; */
+  background-position: fixed;
+  overflow: auto;
+}
